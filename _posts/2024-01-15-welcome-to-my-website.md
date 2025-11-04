@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Welcome to My Website"
+title: "Welcome to My Page"
 date: 2024-01-15 10:00:00 -0000
 categories: announcements
 ---
 
-# Welcome to My Personal Website
+# Welcome to My Personal Page
 
-I'm excited to launch my new personal academic website! This platform will serve as a hub for sharing my research, publications, and professional activities with the broader academic community.
+I'm excited to launch my new personal academic page! This platform will serve as a hub for sharing my research, publications, and professional activities with the broader academic community.
 
 ## What You'll Find Here
 
@@ -24,9 +24,9 @@ Through this blog, I plan to:
 - Provide updates on conference presentations and talks
 - Highlight collaborative projects and opportunities
 
-## About This Website
+## About This Page
 
-This website is built using Jekyll and hosted on GitHub Pages, making it easy to update and maintain. The clean, academic-focused design ensures that content is front and center.
+This page is built using Jekyll and hosted on GitHub Pages, making it easy to update and maintain. The clean, academic-focused design ensures that content is front and center.
 
 ## Get in Touch
 

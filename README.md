@@ -1,12 +1,12 @@
-# Yuguang Hu's Personal Website
+# Yuguang Hu's Personal Page
 
-Personal academic website built with Jekyll and deployed on GitHub Pages.
+Personal academic page built with Jekyll and deployed on GitHub Pages.
 
 **Live Site:** [yuguanghu.com](https://yuguanghu.com) | [Ahyg.github.io](https://Ahyg.github.io)
 
 ## Overview
 
-This is a clean, academic-style personal website featuring:
+This is a clean, academic-style personal page featuring:
 - **Home** - Welcome page with overview
 - **About** - Professional background and education
 - **Research** - Current and past research projects

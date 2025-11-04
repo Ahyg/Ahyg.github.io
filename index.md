@@ -3,6 +3,7 @@ layout: home
 title: Home
 ---
 ![Powered by coffee](./assets/images/DSC01381-AS.jpg)
+![Powered by coffee]({{ "/assets/images/DSC01381-AS.jpg" | relative_url }})
 # Welcome to Yuguang Hu's Page
 
 I am a researcher passionate about machine learning/computer vision. This website showcases my academic work, research interests, and professional activities.
