@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-![Powered by coffee](/assets/images/DSC01381-AS.jpg.jpg)
+![Powered by coffee](./assets/images/DSC01381-AS.jpg)
 # Publications
 
 -
