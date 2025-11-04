@@ -3,49 +3,42 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-
+![Powered by coffee](/assets/images/DSC01381-AS.jpg.jpg)
 # Contact Information
 
 I welcome inquiries from collaborators, students, and anyone interested in my research.
 
 ## Get in Touch
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)
+**Email:** [yuguang.hu@sydney.edu.au](mailto:yuguang.hu@sydney.edu.au)
 
 **Office:**  
-Department/Institution Name  
-Building Name, Room Number  
-Street Address  
-City, State ZIP Code  
-Country
+Sydney Data Science Hub (J17)
+29 Wellington St
+Chippendale NSW 2008
+Australia
 
 **Office Hours:**  
-By appointment (please email to schedule)
+-
 
 ## Connect Online
 
-- **GitHub:** [@Ahyg](https://github.com/Ahyg)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter/X:** [@yourusername](https://twitter.com/yourusername)
-- **Google Scholar:** [Your Profile](https://scholar.google.com)
-- **ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+- **GitHub:** [GitHub](https://github.com/Ahyg)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/yuguang-hu-534b45282/)
+- **Twitter/X:** [Twitter/X](https://x.com/huyuguang)
 
 ## Academic Profiles
 
-- **ResearchGate:** [Your Profile](https://www.researchgate.net)
-- **Academia.edu:** [Your Profile](https://www.academia.edu)
-- **arXiv:** [Your Papers](https://arxiv.org)
+- [The University of Sydney](https://www.sydney.edu.au/engineering/about/our-people/research-students/asher-hu-172.html)
+- **Google Scholar:** [Google Scholar](https://scholar.google.com/citations?user=9a_ZzFUAAAAJ&hl=en)
+- **ORCID:** [ORCID](https://orcid.org/0009-0006-4569-8168)
+- **ResearchGate:** - [ResearchGate](https://www.researchgate.net/profile/Yuguang-Hu?ev=hdr_xprf)
+- **arXiv:** [Yuguang Hu](https://arxiv.org)
 
 ## Research Opportunities
 
 ### For Prospective Students
-
-I am always looking for motivated students interested in [research areas]. If you are considering graduate studies or research internships, please send me:
-
-1. Your CV/Resume
-2. A brief description of your research interests
-3. Your academic transcripts (unofficial copies are fine)
-4. Any relevant publications or projects
+-
 
 ### For Collaborators
 
@@ -54,10 +47,10 @@ I am open to research collaborations in areas related to my expertise. Please re
 ## Mailing Address
 
 Yuguang Hu  
-Department/Institution Name  
-Street Address  
-City, State ZIP Code  
-Country
+Sydney Data Science Hub (J17)
+29 Wellington St
+Chippendale NSW 2008
+Australia
 
 ---
 

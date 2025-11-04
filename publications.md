@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
+![Powered by coffee](/assets/images/DSC01381-AS.jpg.jpg)
 # Publications
 
 -
@@ -27,4 +27,4 @@ permalink: /publications/
 
 ---
 
-*Note: Publications are listed in reverse chronological order. For the most up-to-date list, please check my [Google Scholar profile](https://scholar.google.com).*
+*Note: Publications are listed in reverse chronological order. For the most up-to-date list, please check my [Google Scholar profile](https://scholar.google.com/citations?user=9a_ZzFUAAAAJ&hl=en).*

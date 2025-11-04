@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+![Powered by coffee](/assets/images/DSC01381-AS.jpg.jpg)
 # About Me
 
 Welcome! I am Yuguang Hu, a researcher and student exploring machine learning and data-driven methods.
