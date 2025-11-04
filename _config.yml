@@ -1,0 +1,42 @@
+# Site settings
+title: Yuguang Hu
+email: your.email@example.com
+description: >-
+  Personal academic website of Yuguang Hu.
+  Research, publications, and professional information.
+baseurl: ""
+url: "https://yuguanghu.com"
+github_username: Ahyg
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - publications.md
+  - contact.md
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /blog/:year/:month/:day/:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .gitignore
+  - README.md
