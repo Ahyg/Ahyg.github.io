@@ -6,55 +6,48 @@ permalink: /about/
 
 # About Me
 
-Welcome! I am Yuguang Hu, a dedicated researcher and academic professional.
+Welcome! I am Yuguang Hu, a researcher and student exploring machine learning and data-driven methods.
 
 ## Education
 
-- **Ph.D. in [Your Field]** - [University Name], [Year]
-- **M.S. in [Your Field]** - [University Name], [Year]
-- **B.S. in [Your Field]** - [University Name], [Year]
+- **Master of Philosophy** - [The University of Sydney], [2025]
+- **Master of Computer Science (Data Science and AI)** - [The University of Sydney], [2025]
+- **Bachelor of Engineering (Information Engineering)** - [Nanjing University of Aeronautics and Astronautics], [2018]
 
 ## Research Interests
 
 My research focuses on:
 
-- Research Area 1
-- Research Area 2
-- Research Area 3
-- Research Area 4
+- Generative Models
+- Computer Vision
+- Machine Learning
 
 ## Professional Experience
 
 ### Current Position
-**[Your Title]** at [Institution/Organization]  
-*[Start Date] - Present*
+**[Student]** at [The University of Sydney]  
+*[2025] - Present*
 
-Responsibilities and achievements...
+Interdisciplinary research between meteorology and computer vision, particularly generative models...
 
 ### Previous Positions
 
-**[Previous Title]** at [Previous Institution]  
-*[Start Date] - [End Date]*
+**[Technical Support Engineer]** at [New H3C Technologies Co., Ltd.]  
+*[2018] - [2021]*
 
-Key contributions...
+Supervising major projects for H3C, including formulation, design, construction, and maintenance services. Providing technical support to enterprise customers...
 
 ## Academic Service
 
-- Reviewer for [Journal Names]
-- Member of [Professional Organizations]
-- Organizer of [Conferences/Workshops]
+- Reviewer for [IEEE Transactions on Multimedia]
 
-## Skills & Expertise
+## Familiar with
 
-- Technical Skills: [List your skills]
-- Programming Languages: [Languages you know]
-- Tools & Software: [Tools you use]
+- Python, Pytorch, C/C++, SQL, MATLAB, FPGA, R, Linux, H3C Comware OS, Huawei VRP
 
 ## Awards & Honors
 
-- [Award Name], [Year]
-- [Award Name], [Year]
-- [Award Name], [Year]
+- 2024 [Citadel Securities Best Postgraduate Project Award](https://www.sydney.edu.au/engineering/industry-community/partner-with-us/coding-fest.html)
 
 ---
 

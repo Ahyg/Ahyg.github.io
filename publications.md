@@ -6,35 +6,7 @@ permalink: /publications/
 
 # Publications
 
-## Journal Articles
-
-1. **Author, Y.H.**, Co-Author, A., & Another, B. (2024). "Title of Your Recent Paper." *Journal Name*, Volume(Issue), Pages. [DOI: 10.xxxx/xxxxx](https://doi.org/xxxxx)
-
-2. Co-Author, A., **Author, Y.H.**, & Another, B. (2023). "Title of Another Paper." *Journal Name*, Volume(Issue), Pages. [DOI: 10.xxxx/xxxxx](https://doi.org/xxxxx)
-
-3. **Author, Y.H.** & Co-Author, A. (2023). "Title of Your Paper." *Journal Name*, Volume(Issue), Pages. [DOI: 10.xxxx/xxxxx](https://doi.org/xxxxx)
-
-## Conference Papers
-
-1. **Author, Y.H.**, Co-Author, A., & Another, B. (2024). "Title of Conference Paper." In *Proceedings of Conference Name* (pp. XX-XX). Location: Publisher.
-
-2. Co-Author, A. & **Author, Y.H.** (2023). "Title of Conference Paper." In *Proceedings of Conference Name* (pp. XX-XX). Location: Publisher.
-
-## Book Chapters
-
-1. **Author, Y.H.** (2023). "Chapter Title." In Editor, E. (Ed.), *Book Title* (pp. XX-XX). Location: Publisher.
-
-## Technical Reports & Preprints
-
-1. **Author, Y.H.**, Co-Author, A., & Another, B. (2024). "Title of Preprint." *arXiv preprint* arXiv:XXXX.XXXXX.
-
-2. **Author, Y.H.** (2023). "Title of Technical Report." Technical Report TR-XX-XX, Institution Name.
-
-## Theses
-
-- **Ph.D. Dissertation:** "Title of Your Dissertation." University Name, Year. [Advisor: Professor Name]
-
-- **Master's Thesis:** "Title of Your Thesis." University Name, Year. [Advisor: Professor Name]
+-
 
 ---
 
@@ -47,9 +19,10 @@ permalink: /publications/
 
 ## External Profiles
 
-- [Google Scholar](https://scholar.google.com)
-- [ORCID](https://orcid.org)
-- [ResearchGate](https://www.researchgate.net)
+- [The University of Sydney](https://www.sydney.edu.au/engineering/about/our-people/research-students/asher-hu-172.html)
+- [Google Scholar](https://scholar.google.com/citations?user=9a_ZzFUAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0006-4569-8168)
+- [ResearchGate](https://www.researchgate.net/profile/Yuguang-Hu?ev=hdr_xprf)
 - [arXiv](https://arxiv.org)
 
 ---

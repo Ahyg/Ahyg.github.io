@@ -3,9 +3,9 @@ layout: home
 title: Home
 ---
 
-# Welcome to Yuguang Hu's Personal Website
+# Welcome to Yuguang Hu's Website
 
-I am a researcher passionate about advancing knowledge in my field. This website showcases my academic work, research interests, and professional activities.
+I am a researcher passionate about machine learning/computer vision. This website showcases my academic work, research interests, and professional activities.
 
 ## Latest Updates
 
