@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-![Powered by coffee](./assets/images/DSC01381-AS.jpg)
+<img src="./assets/images/DSC01381-AS.jpg" alt="Powered by coffee" style="width:220px; display:block; margin-left:0; border-radius:10px;">
 # Contact Information
 
 I welcome inquiries from collaborators, students, and anyone interested in my research.

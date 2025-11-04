@@ -2,8 +2,7 @@
 layout: home
 title: Home
 ---
-![Powered by coffee](./assets/images/DSC01381-AS.jpg)
-![Powered by coffee]({{ "/assets/images/DSC01381-AS.jpg" | relative_url }})
+<img src="./assets/images/DSC01381-AS.jpg" alt="Powered by coffee" style="width:220px; display:block; margin-left:0; border-radius:10px;">
 # Welcome to Yuguang Hu's Page
 
 I am a researcher passionate about machine learning/computer vision. This website showcases my academic work, research interests, and professional activities.
