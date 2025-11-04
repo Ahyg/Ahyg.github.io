@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
-<img src="./assets/images/DSC01381-AS.jpg" alt="Powered by coffee" style="width:220px; display:block; margin-left:0; border-radius:10px;">
+<img src="/assets/images/DSC01381-AS.jpg" alt="Powered by coffee" style="width:200px; display:block; margin-left:0; border-radius:10px;">
 # Research
 
 My research focuses on advancing knowledge in [your field] through innovative approaches and rigorous methodology.
