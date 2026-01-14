@@ -6,13 +6,15 @@ permalink: /publications/
 <img src="/assets/images/DSC01381-AS.jpg" alt="Powered by coffee" style="width:200px; display:block; margin-left:0; border-radius:10px;">
 # Publications
 
--
+- **Hu, Y., Liu, D., Protat, A., Louf, V., Brook, J., & Xu, C.** (2026). Enhancing Production of Synthetic Radar Images from Geostationary Satellite Observations through Generative Diffusion Models. *Artificial Intelligence for the Earth Systems*, **5*(1), e250016.  
+  DOI: [10.1175/AIES-D-25-0016.1](https://doi.org/10.1175/AIES-D-25-0016.1)  
+  *Project:* [https://yuguanghu.com/SHRIMP-Page/](https://yuguanghu.com/SHRIMP-Page/)
 
 ---
 
 ## Publication Metrics
 
-- **Total Publications:** XX
+- **Total Publications:** 1
 - **Citations:** XXX ([Google Scholar](https://scholar.google.com/citations?user=9a_ZzFUAAAAJ&hl=en))
 - **h-index:** X
 - **i10-index:** X
